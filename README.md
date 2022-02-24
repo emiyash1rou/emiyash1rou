@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @emiyash1rou
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning html/css and all about web development
+- 👋 Hi, I’m Merhamdin P. Umbukan
+- 👀 I’m interested in Web Development, Game Development
+- 🌱 I’m currently learning PHP Laravel
 
 - 📫 How to reach me ...
 
